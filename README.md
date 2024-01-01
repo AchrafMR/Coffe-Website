@@ -4,7 +4,7 @@
 </p>
 
 ## Overview
-Welcome to Cafena, where the aroma of freshly brewed coffee meets the elegance of web design. This website is a showcase of our commitment to delivering an exceptional coffee experience, coupled with the seamless integration of HTML, CSS, and JavaScript.
+Welcome to Cafena, where the aroma of freshly brewed coffee meets the elegance of web design. This website is a showcase of our commitment to delivering an exceptional coffee experience .
 
 ## Features
 - **Interactive Design:** Engage with a visually appealing and user-friendly interface that enhances your journey through the world of coffee.

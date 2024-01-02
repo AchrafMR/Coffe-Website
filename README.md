@@ -23,4 +23,7 @@ To run Cafena locally, follow these steps:
    ```bash
    git clone https://github.com/AchrafMR/Coffe-Website.git
 2. open file : index.html
+
+   
+<a href="https://ko-fi.com/achrafmr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 ## created by : acharfmechhour
